@@ -4,7 +4,7 @@
   "description": "Project MySQL One For All",
   "main": "index.js",
   "scripts": {
-    "test": "jest --runInBand",
+    "test": "jest --runInBand --detectOpenHandles --watch",
     "test:watch": "jest --watchAll",
     "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js, .jsx"
   },
