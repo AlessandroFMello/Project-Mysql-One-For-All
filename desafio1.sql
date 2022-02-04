@@ -110,7 +110,7 @@ INSERT INTO SpotifyClone.Cancoes (cancao, album_id, duracao_segundos)
           ("She Knows",	3,	244),
           ("Fantasy For Me",	4,	100),
           ("Celebration Of More",	4,	146),
-          ("Rock His Everything",	4,	233),
+          ("Rock His Everything",	4,	223),
           ("Home Forever",	4,	231),
           ("Diamond Power",	4,	241),
           ("Let's Be Silly",	4,	132),
