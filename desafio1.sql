@@ -140,7 +140,7 @@ INSERT INTO SpotifyClone.Cancoes (cancao, album_id, duracao_segundos)
           ("Baby",	10,	136),
           ("You Make Me Feel So..",	10,	83);
 
-INSERt INTO SpotifyClone.Seguindo (usuario_id, artista_id)
+INSERT INTO SpotifyClone.Seguindo (usuario_id, artista_id)
   VALUES  (1,	1),
           (1,	4),
           (1,	3),
